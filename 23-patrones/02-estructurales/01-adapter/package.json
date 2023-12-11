@@ -1,0 +1,17 @@
+{
+  "name": "01-primera-clase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^1.6.2",
+    "lite-server": "^2.6.1"
+  }
+}
