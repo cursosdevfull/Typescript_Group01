@@ -1,0 +1,11 @@
+### List Products
+GET http://localhost:3000/product
+
+### Add Product
+POST http://localhost:3000/product
+content-type: application/json
+
+{
+    "name": "Product 4",
+    "price": 1000
+}

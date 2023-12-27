@@ -1,0 +1,22 @@
+<sales>
+	<book>
+		<title>Título 1</title>
+		<price>50</price>
+	</book>
+	<book>
+		<title>Título 1</title>
+		<price>80</price>
+	</book>
+	<book>
+		<title>Título 1</title>
+		<price>70</price>
+	</book>
+	<book>
+		<title>Título 2</title>
+		<price>40</price>
+	</book>
+	<book>
+		<title>Título 2</title>
+		<price>60</price>
+	</book>
+</sales>
